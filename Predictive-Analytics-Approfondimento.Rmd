@@ -580,7 +580,6 @@ load("C:/Users/edoar/Dropbox/Untitled folder 2/WORDITA.Rda")
 kbl(WORDITA, align="c", longtable = F, booktabs = T, caption="Key Words List",digits=3,escape=F)%>%
   kable_styling(latex_options = "HOLD_position")
 
-
 ```
 
 
